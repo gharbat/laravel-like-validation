@@ -44,7 +44,8 @@ then you have to run the validator by :
 dd('#myForm').validate();  // you can add form ID or Class name
 ```
 
-#Rules :
+# Rules :
+
 ```numbers ``` only numbers in the input 
 ```max``` max length allowed 
 ```min``` max length allowed 
