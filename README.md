@@ -44,6 +44,12 @@ then you have to run the validator by :
 dd('#myForm').validate();  // you can add form ID or Class name
 ```
 
+also you can show errors detiles by adding container 
+```
+dd('#myForm').validate('#cont');  
+```
+
+
 # Rules :
 
 ```numbers ``` only numbers in the input 
