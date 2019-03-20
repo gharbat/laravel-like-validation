@@ -1,4 +1,4 @@
-var peakDom = (function () {
+var dd = (function () {
     'use strict';
 
     var holder = function (selector) {
@@ -141,6 +141,6 @@ var peakDom = (function () {
 
 
 
-peakDom('#myForm').validate('#errorArea');
+dd('#myForm').validate('#errorArea');
 
 
