@@ -62,3 +62,5 @@ dd('#myForm').validate('#cont');
 
 # Customization :
 some classes added automatically to the inputs , you can use them to style the errors
+
+no
